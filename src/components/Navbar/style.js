@@ -24,4 +24,11 @@ font-family: 'Poppins', sans-serif;
     
     width:200px;
   }
+  .h1, h1{
+    font-size:2.5rem;
+    color:#240303;
+    font-weight:900;
+    display:flex;
+    text-decoration:none;
+  }
 `;
