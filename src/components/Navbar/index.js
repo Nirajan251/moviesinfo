@@ -8,7 +8,7 @@ function Navbars() {
             <Container >
         <Navbar  expand="lg"  >
          <Link to="/">
-          <img className="img__nav" src="/image/logo2.svg" alt="" />
+          <h1>Movies Info</h1>
   </Link>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
